@@ -5,7 +5,7 @@
   position: fixed;
   width: 100%;
   box-sizing: border-box;
-  align-items: center;
+  top: 0px;
 }
 .status-bar__column {
   width: 33%;
