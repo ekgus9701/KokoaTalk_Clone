@@ -1,6 +1,7 @@
 # KokoaTalk_clone
 ## 노마드코더 니꼬쌤의 코코아톡 클론 코딩을 듣고 정리한 노트이다.
 
+https://ekgus9701.github.io/KokoaTalk_clone/ 여기서 실행할 수 있다.
 
 [#2 LEARNING HTML](https://www.notion.so/2-LEARNING-HTML-95ae04e1c77e407aae2a5ff3fefbdcdf)
 
